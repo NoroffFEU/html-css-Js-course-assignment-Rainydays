@@ -1,34 +1,79 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=13042092&assignment_repo_type=AssignmentRepo)
-# HTML & CSS Course Assignment
+
+
+
+
+
+<img width="1296" alt="Screenshot 2024-10-06 at 00 52 48" src="https://github.com/user-attachments/assets/c297763d-fc19-49df-b9aa-73becf9cc575">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# JavaScript 1 - Course Assignment RainyDays
+
+
 
 ## Brief
 
-You must deliver a properly functioning, responsive website for the assignment brief you chose in Design 1.
+This the first assignment in which Using new skills writing JavaScript, create an interactive online store to display product from an API endpoint.I ll Use one of these three provided API urls to display products in HTML and allow users to create a basket of items.
 
-The site needs to have every page listed in the site architecture on your chosen brief. Certain functionality requiring JavaScript can be mimicked; for example, a login page could link across from the ‘Sign in’ button.
+## User Stories
 
-- The HTML should be semantic and neat.
-- The CSS should follow the DRY principle and be easy to read.
-- The website should be responsive and look good at every screen size with no horizontal scrollbars. Use Flexbox and CSS Grids where appropriate. Please do not use a CSS framework like Bootstrap; we want to see that you can build responsive sites without the help of a framework.
-- The site should be WCAG compliant, and accessibility should be taken into account.
-- Each page should have a unique <meta name="description">, <title>, and <h1>.
-- You should not use copied code in your submission. All code submitted must be written by yourself. You may use external sources to show you how to achieve specific effects, which should be included in your report.
+- User want to view a list of products on the homepage.
+- User want to filter products by category, gender or genre.
+- User want to view a single product page with more detail.
+- User want to add a product to my basket.
+- User want to remove a product from my basket.
+- User want to view a summary of my cart on the checkout page.
+- - User want to view an order-confirmation screen after checking out.
 
-## Process
+## Required Pages
 
-1. Look at your prototype and consider how the elements will move across the different devices. Which elements move where on different devices?
-2. Write your HTML and CSS, ensuring your HTML is semantic and bug-free and your CSS follows DRY principles.
-3. Use media queries, flex or grid to make your website responsive across screen sizes.
-4. Test your website using your developer tools and also test on major browsers and various devices.
-5. Validate your code using the Markup Validation Service
-6. Use the WAVE Web Accessibility Evaluation Tools to test that your site matches best practices for accessibility
-7. When your site is ready, post it on the Teams peer review channel.
-8. Look at the work of your peers and write a review for them.
-9. Make adjustments based on the feedback you gather from peers and teachers.
-10. Submit here on Teams.
+The following pages are required to complete this project.
 
-## Delivery
+- Home Page containing product list `/index.html`
+- 
+- Product Page showing all details of a specific product `/product/index.html`
+- 
+- Checkout Page showing all items in the basket `/checkout/index.html`
+- 
+- Confirmation Page showing a thank you message `/checkout/confirmation/index.html`
 
-- Please include a link to your live site, deployed on Netlify or GitHub Pages in your submission.
-- Please include a link to your public GitHub repo containing your code in your submission.
-- There is no reflection for this CA.
+
+## Resources
+
+The project provided with three options to choose from:
+
+Rainy Days API - https://docs.noroff.dev/docs/v1/e-commerce/rainy-days
+
+GameHub API - https://docs.noroff.dev/docs/v1/e-commerce/gamehub
+
+Square Eyes- https://docs.noroff.dev/docs/v1/e-commerce/square-eyes
+
+
+## Built With
+
+This project is built up with 
+
+Html
+
+Css
+
+Javascript (vanilla)
+
+
+## Design:
+
+https://www.figma.com/design/yXzg7DrcnjS0CB5Wad3ECz/Rainyday-Noor?t=e9I6cjOTQHDkTOxG-1
+
