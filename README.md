@@ -86,6 +86,26 @@ This project is built up with
 
 
 
+  ## Getting Started
+
+### Installing
+
+This is where you list how to get the project started. It typically just includes telling a person to clone the repo and then to install the dependencies e.g.
+
+1. Clone the repo:
+
+```bash
+https://github.com/Noor807/Semester-project-ScienceMuseum.git
+```
+
+2. Install the dependencies:
+
+```
+npm install
+```
+
+
+
 ## Design:
 
 https://www.figma.com/design/yXzg7DrcnjS0CB5Wad3ECz/Rainyday-Noor?t=e9I6cjOTQHDkTOxG-1
