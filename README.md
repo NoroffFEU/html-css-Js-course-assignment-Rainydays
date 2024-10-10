@@ -95,7 +95,7 @@ This is where you list how to get the project started. It typically just include
 1. Clone the repo:
 
 ```bash
-https://github.com/Noor807/Semester-project-ScienceMuseum.git
+https://github.com/NoroffFEU/html-css-Js-course-assignment-Rainydays.git
 ```
 
 2. Install the dependencies:
