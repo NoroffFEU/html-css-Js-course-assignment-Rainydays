@@ -31,24 +31,31 @@ This the first assignment in which Using new skills writing JavaScript, create a
 ## User Stories
 
 - User want to view a list of products on the homepage.
+  
 - User want to filter products by category, gender or genre.
+ 
 - User want to view a single product page with more detail.
+ 
 - User want to add a product to my basket.
+ 
 - User want to remove a product from my basket.
+ 
 - User want to view a summary of my cart on the checkout page.
-- - User want to view an order-confirmation screen after checking out.
+  
+- User want to view an order-confirmation screen after checking out.
+    
 
 ## Required Pages
 
 The following pages are required to complete this project.
 
-- Home Page containing product list `/index.html`
-- 
-- Product Page showing all details of a specific product `/product/index.html`
-- 
-- Checkout Page showing all items in the basket `/checkout/index.html`
-- 
-- Confirmation Page showing a thank you message `/checkout/confirmation/index.html`
+- Home Page containing all the products
+  
+- Product Page showing all details of a specific product
+ 
+- Checkout Page showing all items in the basket 
+ 
+- Confirmation Page showing a thank you message
 
 
 ## Resources
@@ -62,18 +69,28 @@ GameHub API - https://docs.noroff.dev/docs/v1/e-commerce/gamehub
 Square Eyes- https://docs.noroff.dev/docs/v1/e-commerce/square-eyes
 
 
+
 ## Built With
 
 This project is built up with 
 
-Html
+- FIGMA: Designing for UX/UI accessibility.
 
-Css
+- HTML5: Semantic structure to enhance accessibility.
 
-Javascript (vanilla)
+- CSS3: Responsive design using Flexbox and Grid for smooth experience across all screen sizes.
+
+- JavaScript: For interactive features like adding items to the cart and connecting to the Noroff API.
+
+- Noroff API: Data fetched directly from the API.
+
 
 
 ## Design:
 
 https://www.figma.com/design/yXzg7DrcnjS0CB5Wad3ECz/Rainyday-Noor?t=e9I6cjOTQHDkTOxG-1
+
+## 🔗 Live link:
+
+https://noroff-rainydays.netlify.app
 
