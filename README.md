@@ -32,7 +32,7 @@ This the first assignment in which Using new skills writing JavaScript, create a
 
 - User want to view a list of products on the homepage.
   
-- User want to filter products by category, gender or genre.
+- User want to filter products by category, gender or genre. 
  
 - User want to view a single product page with more detail.
  
