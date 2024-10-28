@@ -3,7 +3,9 @@
 
 
 
-<img width="1296" alt="Screenshot 2024-10-06 at 00 52 48" src="https://github.com/user-attachments/assets/c297763d-fc19-49df-b9aa-73becf9cc575">
+
+
+![Project-1-png-min-min](https://github.com/user-attachments/assets/44b21c6b-dac4-48cf-8d87-9dc848c7ff0a)
 
 
 
